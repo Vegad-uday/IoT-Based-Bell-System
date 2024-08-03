@@ -43,9 +43,9 @@ This project is an IoT-based automatic bell system designed for educational inst
     - Follow the wiring diagram to connect the RTC module, relay, and OLED display to the ESP8266.
 
 4. **Access the configuration page:**
-    - After uploading the code, the ESP8266 will start as a Wi-Fi hotspot with the SSID `NodeMcu` and password `SSIP1234`.
+    - After uploading the code, the ESP8266 will start as a Wi-Fi hotspot with the SSID `Your SSID` and password `Your Password`.
     - Connect to this network and open a web browser.
-    - Go to `http://192.168.4.1` to access the bell system's configuration page.
+    - Go to `OLED display shows the IP address` to access the bell system's configuration page.
 
 ## Usage
 
